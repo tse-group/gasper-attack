@@ -7,9 +7,11 @@ For a detailed description of the attack, see Section II and Appendix A of our m
 
 ## References
 
-* [Ebb-and-Flow] *Ebb-and-Flow Protocols: A Resolution of the Availability-Finality Dilemma*
+* [Ebb-and-Flow]<br/>
+  *Ebb-and-Flow Protocols: A Resolution of the Availability-Finality Dilemma*
 
-* [Gasper] *Combining GHOST and Casper*
-  Vitalik Buterin, Diego Hernandez, Thor Kamphefner, Khiem Pham, Zhi Qiao, Danny Ryan, Juhyeok Sin, Ying Wang, Yan X Zhang
+* [Gasper]<br/>
+  *Combining GHOST and Casper*<br/>
+  Vitalik Buterin, Diego Hernandez, Thor Kamphefner, Khiem Pham, Zhi Qiao, Danny Ryan, Juhyeok Sin, Ying Wang, Yan X Zhang<br/>
   [arXiv:2003.03052](https://arxiv.org/abs/2003.03052)
 
