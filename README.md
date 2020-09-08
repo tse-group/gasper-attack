@@ -3,6 +3,7 @@
 In our manuscript [Ebb-and-Flow] we describe a bouncing-style attack on the Gasper consensus protocol [Gasper] in a synchronous network.
 This repository contains the source code for the simulation of this attack.
 For a detailed description of the attack, see Section II and Appendix A of our manuscript [Ebb-and-Flow].
+For the source code of the simulations presented in [Ebb-and-Flow], please see: [https://github.com/tse-group/ebb-and-flow](https://github.com/tse-group/ebb-and-flow)
 
 
 ## References
