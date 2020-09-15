@@ -21,7 +21,7 @@ for details on what the adversary does when and why.
   [arXiv:2009.04987](https://arxiv.org/abs/2009.04987)
 
 * [Gasper]<br/>
-  *Combining GHOST and Casper*<br/>
+  **Combining GHOST and Casper**<br/>
   Vitalik Buterin, Diego Hernandez, Thor Kamphefner, Khiem Pham, Zhi Qiao, Danny Ryan, Juhyeok Sin, Ying Wang, Yan X Zhang<br/>
   [arXiv:2003.03052](https://arxiv.org/abs/2003.03052)
 
